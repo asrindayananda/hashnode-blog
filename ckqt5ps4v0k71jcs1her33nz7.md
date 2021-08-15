@@ -12,5 +12,7 @@ rm -rf <PathToYourRootDirectory>\generated\metadata\global.php
 
 Re-load your page and it should load.
 
+%%[buyMeCoffee]
+
 Happy Coding,
 Asrin
