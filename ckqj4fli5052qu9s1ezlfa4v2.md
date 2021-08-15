@@ -68,3 +68,7 @@ If it didn't post a comment and I will get back to you
 
 Happy Coding :)
 Asrin
+
+If this helped you consider buying me a coffee :)
+
+%%[buymecoffee]
