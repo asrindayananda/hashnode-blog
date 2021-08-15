@@ -44,3 +44,7 @@ Remember to like, post a comment and share this blog if this worked for you.
 Happy Coding :)
 
 Asrin
+
+If this helped you consider buying me a coffee :)
+
+%%[buymecoffee]
