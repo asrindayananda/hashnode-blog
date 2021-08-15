@@ -47,3 +47,7 @@ Please get in contact with if you need assistance.
 
 Happy Coding,
 Asrin
+
+If this helped you consider buying me a coffee :)
+
+%%[buymecoffee]
