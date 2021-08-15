@@ -23,6 +23,9 @@ In todays Covid world we are always on video calls using zoom, discord, or whate
 
 Hopefully this will solve your microphone volume issues :)
 
+If this helped you consider buying me a coffee :)
+
+%%[buymecoffee]
 
 *References*
 - Image from: https://en.wikipedia.org/wiki/Microphone#/media/File:Shure_mikrofon_55S.jpg
