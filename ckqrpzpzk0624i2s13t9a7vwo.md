@@ -1,4 +1,4 @@
-## Create a module in Magento 2
+## Magento 2: Create a module in Magento 2
 
 A module is needed for your custom code to run in magento. Say you want to change some magento code or add your own code. you need a module. This is best practice and this is how a module works. 
 
