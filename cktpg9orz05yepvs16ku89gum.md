@@ -21,6 +21,10 @@ import star from './star.jpg';
     <img src={require('./star.jpg')} alt="Star"/>
 ```
 
-Happy Coding! 
-
+Happy Coding,
 Asrin
+
+If this helped you consider buying me a coffee :)
+
+%%[buymecoffee]
+
