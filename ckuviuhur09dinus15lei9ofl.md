@@ -1,4 +1,4 @@
-## Run a PHP script in GitHub Actions
+## Run a PHP script using GitHub Actions
 
 - SignUp and Create a new reposiory in [ Github](https://github.com/)  
 
