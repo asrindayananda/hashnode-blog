@@ -4,7 +4,7 @@ A module is needed for your custom code to run in magento. Say you want to chang
 
 Below steps creates a dummy module called AzCodez_MagentoTraining. Rename as you wish
 
-- Create a folder app/code/Unit1/Test. 
+- Create a folder app/code/AzCodez/MagentoTraining 
 
 - Create a file app/code/AzCodez/MagentoTraining/etc/module.xml
 
