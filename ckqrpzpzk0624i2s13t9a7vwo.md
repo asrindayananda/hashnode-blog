@@ -2,7 +2,7 @@
 
 A module is needed for your custom code to run in magento. Say you want to change some magento code or add your own code. you need a module. This is best practice and this is how a module works. 
 
-Below steps creates a dummy module called AzCodez_MagentoTraining. Rename as you wish
+Below steps creates a dummy module called AzCodez_MagentoTraining
 
 - Create a folder app/code/AzCodez/MagentoTraining 
 
@@ -18,10 +18,10 @@ Below steps creates a dummy module called AzCodez_MagentoTraining. Rename as you
 </config>
 ```
 
-- Add a registration file and code below
+- Add a registration file app/code/AzCodez/MagentoTraining/registration.php
+- Add code below
 
 ```
-D:\xammp\htdocs\magento\app\code\AzCodez\MagentoTraining\registration.php
 <?php
 /**
  * Module AzCodez_MagentoTraining
@@ -34,16 +34,26 @@ D:\xammp\htdocs\magento\app\code\AzCodez\MagentoTraining\registration.php
 ```
 
 - Run following commands from your root folder
-
-```
-php bin/magento module:enable AzCodez_MagentoTraining
-```
 ```
 php bin/magento setup:upgrade 
+php bin/magento module:enable AzCodez_MagentoTraining
 ```
-- Your module is now installed!
+    - If you are running Magento cloud run
+```
+docker-compose run --rm deploy cloud-deploy
+docker-compose run --rm deploy magento-command module:enable AzCodez_MagentoTraining
+```
+- If you get 'No modules were changed.' Your module is now installed!
+- Double check its installed properly by searching AzCodez_MagentoTraining in your app\etc\config.php
 
-See [Link to relevant Magento Docs](https://devdocs.magento.com/videos/fundamentals/create-a-new-module/) for more information
+- If you get error module not found
+    - Double check where you put the module.xml and registration.php
+    - module.xml goes under etc folder and registration goes in root of MagentoTraining folder
+
+- Now you can create your own module by Modifing 'AzCodez' and 'MagentoTraining' in above instructions to your own preference
+
+References 
+- See [Link to relevant Magento Docs](https://devdocs.magento.com/videos/fundamentals/create-a-new-module/) for more information
 
 If this didn't please comment and I will try help you.
 
