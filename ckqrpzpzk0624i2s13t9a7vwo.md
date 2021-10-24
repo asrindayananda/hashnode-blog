@@ -52,9 +52,6 @@ docker-compose run --rm deploy magento-command module:enable AzCodez_MagentoTrai
 
 - Now you can create your own module by Modifing 'AzCodez' and 'MagentoTraining' in above instructions to your own preference
 
-References 
-- See [Link to relevant Magento Docs](https://devdocs.magento.com/videos/fundamentals/create-a-new-module/) for more information
-
 If this didn't please comment and I will try help you.
 
 Remember to like, post a comment and share this blog if this worked for you.
@@ -68,5 +65,5 @@ If this helped you consider buying me a coffee :)
 %%[buymecoffee]
 
 References
-
+- See [Link to relevant Magento Docs](https://devdocs.magento.com/videos/fundamentals/create-a-new-module/) for more information
 - Image from - https://repository-images.githubusercontent.com/2884111/4bf49300-b50e-11e9-8d1f-c7add453ddb5
