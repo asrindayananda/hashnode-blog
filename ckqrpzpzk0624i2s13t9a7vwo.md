@@ -14,7 +14,13 @@ Below steps creates a dummy module called AzCodez_MagentoTraining
 <?xml version="1.0"?>
 <!-- Module AzCodez_MagentoTraining -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
-    <module name="AzCodez_MagentoTraining" setup_version="0.0.1"></module>
+    <module name="AzCodez_MagentoTraining" setup_version="0.0.1">
+        <!-- Add modules that this module dependent on 
+        <sequence>
+            <module name="Magento_Catalog"/>
+        </sequence>
+        -->
+    </module>
 </config>
 ```
 
