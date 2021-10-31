@@ -1,4 +1,4 @@
-## Combine commands to run on Lunix (Debian)
+## Combine commands to run on Linux (Debian)
 
 Below we are going to add a bunch of commands into a file and run them all at once where you need to. This should help with development time
 
