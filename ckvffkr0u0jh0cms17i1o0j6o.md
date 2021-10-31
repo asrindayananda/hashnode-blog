@@ -24,7 +24,7 @@ docker-compose run --rm deploy magento-command cache:flush
 
 - Add permissions to file so the script can run anywhere
 ```
-chmod +x new_script
+chmod +x /bin/new_script
 ```
 
 - CD into directory you want to run script and run like so
