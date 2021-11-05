@@ -68,9 +68,9 @@ AWS_REGION
 
 - Check your S3 Bucket to see whether files added
 
-If this didn't please comment and I will try help you.
+Hope this helped you, if this didn't please comment and I will try help you.
 
-Remember to like, post a comment and share this blog if this worked for you.
+Remember to like, post a comment and share.
 
 Happy Coding :)
 
