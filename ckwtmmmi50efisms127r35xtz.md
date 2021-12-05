@@ -16,7 +16,7 @@ Setup an initial class with this code which has a few methods that you can call.
 
 namespace AzCodez\MagentoTraining\Controller\UnitTesting;
 
-class TestClassMethodChaning
+class MethodChainingTest
 {
     public $outputOfChain = '';
 
@@ -113,6 +113,11 @@ class TestMethodChaining extends TestCase
 
     }
 }
+```
+
+Run the tests 
+```
+./vendor/bin/phpunit -c dev/tests/unit/phpunit.xml.dist app/code/AzCodez/MagentoTraining/Test/Unit/
 ```
 
 # Shameless Plugs 
