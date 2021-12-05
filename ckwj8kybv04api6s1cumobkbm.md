@@ -119,7 +119,7 @@ sudo apt-get update && apt-get install -y gnupg
 ```
 wget -qO - https://packages.sury.org/php/apt.gpg | sudo apt-key add -
 ```
-- Installing PHP7.4.21
+- Installing PHP7.4
 ```
 sudo apt update
 sudo apt install php7.4 
