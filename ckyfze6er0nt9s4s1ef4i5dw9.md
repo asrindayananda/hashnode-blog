@@ -108,7 +108,7 @@ If successful you should have a complete success workflow and your EC2 should be
 
 Don't forget to turn off your EC2 if you don't want it to run.
 
-# Plugs
+# Shameless Plugs
 - Join me and invest commission-free with Freetrade. Get started with a free share worth £3-£200. https://magic.freetrade.io/join/asrin/447192e9
 - Want to start a blog on hashnode use this [link ](https://hashnode.com/@azcodez/joinme) so I get a free shirt. I will assist you with setup 🙂
 
