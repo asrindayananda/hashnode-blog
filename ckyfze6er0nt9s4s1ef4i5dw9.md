@@ -111,6 +111,7 @@ Don't forget to turn off your EC2 if you don't want it to run.
 # Shameless Plugs
 - Join me and invest commission-free with Freetrade. Get started with a free share worth £3-£200. https://magic.freetrade.io/join/asrin/447192e9
 - Want to start a blog on hashnode use this [link ](https://hashnode.com/@azcodez/joinme) so I get a free shirt. I will assist you with setup 🙂
+- Sign up for coinbase and get £7.42 of Bitcoin http://coinbase.com/join/dayana_m40?src=android-link
 
 # Credits 
 -  [AWS CLI commands](https://docs.aws.amazon.com/cli/latest/reference/ec2/start-instances.html) 
