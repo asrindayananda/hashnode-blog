@@ -57,7 +57,10 @@ sudo sh -c 'echo "deb https://packages.sury.org/php/ $(lsb_release -sc) main" > 
 ```
 - Install gnupg
 ```
-apt-get update && apt-get install -y gnupg
+apt-get update
+```
+```
+apt install gnupg
 ```
 - Import the GPG key for the repository
 ```
@@ -66,7 +69,11 @@ wget -qO - https://packages.sury.org/php/apt.gpg | sudo apt-key add -
 - Install PHP7.4
 ```
 sudo apt update
+```
+```
 sudo apt install php7.4 
+```
+```
 sudo apt-get install php7.4-{bcmath,curl,xml,fpm,gd,intl,mbstring,mysql,zip,soap}
 ```
 Check php is installed
@@ -98,6 +105,12 @@ sudo php composer-setup.php --version=2.1.3 --install-dir=/usr/local/bin --filen
 Check installer is installed
 ```
 composer -v
+```
+
+## See WSL files
+- Open your windows file explorer and put below in your search bar. You will see your Debian installation here
+```
+\\wsl$
 ```
 
 ## Install magento on docker desktop
