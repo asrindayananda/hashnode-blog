@@ -39,3 +39,20 @@
     Select * From az_codez_followers;
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646408394493/fzvAB2a3I.png)
+
+# Shameless Plugs
+
+*   [Join me and invest commission-free with Freetrade. Get started with a free share worth £3-£200.](https://magic.freetrade.io/join/asrin/447192e9)
+*   [Start a blog on Hashnode](https://hashnode.com/@azcodez/joinme)
+*   [Transfer money internationally with Wise](https://wise.com/invite/ath/asrind)
+
+# Credits
+
+*   [Header image](https://unsplash.com/photos/nME9TubZtSo)
+*   [Adobe Magento Commence Documentation](https://devdocs.magento.com)
+
+Feel free to comment with questions or feedback✌️
+
+Happy coding,
+
+Az 👨🏾‍💻
