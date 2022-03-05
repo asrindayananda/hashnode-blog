@@ -1,8 +1,10 @@
 ## Create a database table in Magento 2
 
-# Create a database
+Below are steps I went though to create a new database table in Magento 2 / Adobe Commerce
 
-## First create a module and redeploy
+## Create a module
+
+You can add to your existing module or [follow this blog to create a module](https://blog.azcodez.com/magento-2-create-a-module-in-magento-2)
 
 ## Create a db schema
 
