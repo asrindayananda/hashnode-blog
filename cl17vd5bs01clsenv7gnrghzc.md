@@ -11,7 +11,7 @@ This is how I added ssh-agent and ssh key authentification on start up of git te
 ```
 nano ~/.profile 
 ```
-- Add these contents
+- Add these contents. Remember to edit to set path to your ssh key!
 ```
 #! /bin/bash 
 eval `ssh-agent -s` 
@@ -24,7 +24,7 @@ ssh-add ~/.ssh/<ADD_PATH_TO_SSH_KEY>
 ```
 nano ~/.bashrc 
 ```
-- Add these contents
+- Add these contents. Remember to edit to set path to your ssh key!
 ```
 #! /bin/bash 
 eval `ssh-agent -s` 
