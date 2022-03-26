@@ -1,6 +1,6 @@
 ## Add GitHub ssh-agent and ssh key on startup (Windows)
 
-Whenever you log into your PC your ssh key drops out so you have to run `eval `ssh-agent -s` && 
+If you have GitHub ssh key setup to access your remote repo, whenever you log out your PC your ssh key drops out! So you have to run `eval `ssh-agent -s` && 
 ssh-add ~/.ssh/xxx-key` everytime you login.😡
 
 This is how I added ssh-agent and ssh key authentification on start up of git terminal in Windows and in Android studio git bash terminal. 
