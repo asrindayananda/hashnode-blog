@@ -31,7 +31,7 @@ These are steps on how I created an AWS EC2 using Github Actions and Terraform.
 # Add Terraform files 
 - Copy this file to your repo [main.tf](https://github.com/hashicorp/learn-terraform-github-actions/blob/main/main.tf)
 
-#  Add github action file
+#  Add GitHub Action file
 - Copy this terraform.ym to your repo as well https://github.com/hashicorp/learn-terraform-github-actions/blob/main/.github/workflows/terraform.yml
 - See this for more info to what it does
 https://learn.hashicorp.com/tutorials/terraform/github-actions?in=terraform/automation
