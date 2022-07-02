@@ -61,6 +61,20 @@ Successful will look like this
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656755433235/3FktOnXG-.png align="left")
 
+# Credits
+- https://github.com/aws/aws-elastic-beanstalk-cli-setup
+- https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html#eb-cli3-install.scripts
+- https://linuxize.com/post/how-to-install-python-3-9-on-debian-10/
+- https://virtualenv.pypa.io/en/latest/user_guide.html
+- https://github.com/pyenv/pyenv
+- https://stackoverflow.com/questions/18363022/importerror-no-module-named-pip
+- https://stackoverflow.com/questions/31133050/virtualenv-command-not-found
+
+# Shameless Plugs 
+- [Join me and invest commission-free with Freetrade. Get started with a free share worth £3-£200.](https://magic.freetrade.io/join/asrin/447192e9)
+- [Start a blog on Hashnode](https://hashnode.com/@azcodez/joinme)
+- [Transfer money internationally with Wise](https://wise.com/invite/ath/asrind)
+
 Now you can create apps in elastic beanstalk! I will blog creating an app soon.
 
 Hope this helps😁
@@ -70,12 +84,3 @@ Feel free to comment with questions or feedback✌️
 Happy coding,
 
 Az 👨🏾‍💻
-
-# Credits
-- https://github.com/aws/aws-elastic-beanstalk-cli-setup
-- https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html#eb-cli3-install.scripts
-- https://linuxize.com/post/how-to-install-python-3-9-on-debian-10/
-- https://virtualenv.pypa.io/en/latest/user_guide.html
-- https://github.com/pyenv/pyenv
-- https://stackoverflow.com/questions/18363022/importerror-no-module-named-pip
-- https://stackoverflow.com/questions/31133050/virtualenv-command-not-found
