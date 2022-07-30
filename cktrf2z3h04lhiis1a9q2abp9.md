@@ -1,8 +1,12 @@
 ## Twitter tweet bot using GitHub Actions
 
-Log into your twitter account 
+This is how I created a GitHub Action that sends tweets to my Twitter automaticly
 
-Register as twitter dev
+# Twitter Authentification
+
+Log into your Twitter account 
+
+Register as Twitter dev
 - https://developer.twitter.com/en/apply-for-access
 
 Once approved create a new app
@@ -23,12 +27,14 @@ TIH_BEARER_TOKEN
 ```
 - Also create more keys by clicking new access token and secret and save all these values
 
-- Create new file in your GitHub repo like this path
+# Create a GitHub Action
+
+- Create a new file in your GitHub repo like this path
 ```
 twitterBot/.github/workflows/twitterBot.yml
 ```
 
-Add below code to file
+Add the below code to file
 ```
 # This is a basic workflow to help you get started with Actions
 
@@ -96,6 +102,12 @@ Error: {"request":"\/1.1\/statuses\/update.json","error":"Read-only application 
 - And you will have a successful tweet !😵
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1631970801928/Iv4mjHumV.png)
+
+# Shameless Plugs 
+- [Join me and invest commission-free with Freetrade. Get started with a free share worth £3-£200.](https://magic.freetrade.io/join/asrin/447192e9)
+- [Start a blog on Hashnode](https://hashnode.com/@azcodez/joinme)
+- [Transfer money internationally with Wise](https://wise.com/invite/ath/asrind)
+- [Join coinbase with my and you will earn some free crypto as well](https://coinbase.com/join/dayana_m40?src=android-link)
 
 Hope this works for you. Let me know if you get stuck. 
 
