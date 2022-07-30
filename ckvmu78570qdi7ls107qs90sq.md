@@ -76,7 +76,11 @@ Happy Coding 🙂
 
 Asrin 🤙
 
-Want to start a blog on hashnode use this [link ](https://hashnode.com/@azcodez/joinme) so I get a free shirt. I will assist you with setup 🙂
+# Shameless Plugs 
+- [Join me and invest commission-free with Freetrade. Get started with a free share worth £3-£200.](https://magic.freetrade.io/join/asrin/447192e9)
+- [Start a blog on Hashnode](https://hashnode.com/@azcodez/joinme)
+- [Transfer money internationally with Wise](https://wise.com/invite/ath/asrind)
+- [Join coinbase with my and you will earn some free crypto as well](https://coinbase.com/join/dayana_m40?src=android-link)
 
 If this helped you consider buying me a coffee 🙂
 
