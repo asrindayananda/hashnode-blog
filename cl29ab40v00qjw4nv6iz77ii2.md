@@ -106,6 +106,7 @@ Congrats you have created a server with GitHub Actions and Terraform 🎉
 - [Join me and invest commission-free with Freetrade. Get started with a free share worth £3-£200.](https://magic.freetrade.io/join/asrin/447192e9)
 - [Start a blog on Hashnode](https://hashnode.com/@azcodez/joinme)
 - [Transfer money internationally with Wise](https://wise.com/invite/ath/asrind)
+- [Join coinbase with my and you will earn some free crypto as well](https://coinbase.com/join/dayana_m40?src=android-link)
 
 Feel free to comment with questions or feedback✌️
 
