@@ -38,3 +38,5 @@ If this helped you consider buying me a coffee :)
 
 References
 - Image from: https://pixabay.com/photos/record-player-vinyl-1851576/
+
+%%[amazonads]
