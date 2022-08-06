@@ -35,4 +35,4 @@ References
 - https://docs.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2019
 - https://unsplash.com/photos/e_C75kClYUs
 
-
+%%[amazonads]
