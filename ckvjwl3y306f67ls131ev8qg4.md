@@ -82,3 +82,5 @@ If this helped you consider buying me a coffee :)
 
 - Credits 
     - GitHub Action from https://github.com/marketplace/actions/s3-sync 
+
+%%[amazonads]
