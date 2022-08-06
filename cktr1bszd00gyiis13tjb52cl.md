@@ -27,3 +27,5 @@ If this helped you consider buying me a coffee :)
 
 Reference
 -  https://stackoverflow.com/questions/59360629/docker-windows-timeout
+
+%%[amazonads]
