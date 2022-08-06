@@ -46,3 +46,5 @@ Feel free to comment with questions or feedback✌️
 Happy coding,
 
 Az 👨🏾‍💻
+
+%%[amazonads]
