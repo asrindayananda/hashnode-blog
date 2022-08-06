@@ -29,3 +29,5 @@ If this helped you consider buying me a coffee :)
 
 *References*
 - Image from: https://en.wikipedia.org/wiki/Microphone#/media/File:Shure_mikrofon_55S.jpg
+
+%%[amazonads]
