@@ -102,3 +102,5 @@ Credits
 - AWS CLI commands https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html#using-s3-commands-managing-buckets-creating
 - Image https://chillplanet.org/tag/aws/
 - Image https://www.coletiv.com/blog/android-github-actions-setup/
+
+%%[amazonads]
