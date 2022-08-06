@@ -99,7 +99,6 @@ This is how I post my Hashnode blogs to Twitter automatically by using GitHub Ac
           access_token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
           access_token_secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }} 
 ```
-%%[amazonads]
 
 # Credits
 
@@ -121,3 +120,5 @@ Feel free to comment with questions or feedback✌️
 Happy coding,
 
 Az 👨🏾‍💻
+
+%%[amazonads]
