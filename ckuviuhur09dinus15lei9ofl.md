@@ -74,3 +74,5 @@ If this helped you consider buying me a coffee :)
 References 
 - https://github.com/nanasess
 - https://docs.github.com/en/actions
+
+%%[amazonads]
