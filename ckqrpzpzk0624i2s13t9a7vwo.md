@@ -73,3 +73,5 @@ If this helped you consider buying me a coffee :)
 References
 - See [Link to relevant Magento Docs](https://devdocs.magento.com/videos/fundamentals/create-a-new-module/) for more information
 - Image from - https://repository-images.githubusercontent.com/2884111/4bf49300-b50e-11e9-8d1f-c7add453ddb5
+
+%%[amazonads]
