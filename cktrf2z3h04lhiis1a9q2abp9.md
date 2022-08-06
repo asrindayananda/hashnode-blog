@@ -122,3 +122,5 @@ References
 - https://github.com/marketplace/actions/tweet-to-twitter
 in 
 - https://images.app.goo.gl/6bhWC7NVab2f1NKg9
+
+%%[amazonads]
