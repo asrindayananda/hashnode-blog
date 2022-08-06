@@ -45,3 +45,5 @@ If this helped you consider buying me a coffee :)
 **References**
 
 - Image from https://www.serif.net/serif-news/title/Should-you-run-your-website-securely-on-https-with-an-SSL-certificate/post/11147
+
+%%[amazonads]
