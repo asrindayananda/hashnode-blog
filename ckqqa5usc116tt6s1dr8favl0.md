@@ -38,3 +38,5 @@ Asrin
 If this helped you consider buying me a coffee :)
 
 %%[buymecoffee]
+
+%%[amazonads]
