@@ -290,3 +290,5 @@ Feel free to comment questions or feedback✌️
 Happy coding,
 
 Az 👨🏾‍💻
+
+%%[amazonads]
