@@ -154,3 +154,4 @@ Happy coding,
 Az 👨🏾‍💻
 
 %%[amazonads]
+%%[openinnewtab]
